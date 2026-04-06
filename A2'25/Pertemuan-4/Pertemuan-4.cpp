@@ -160,7 +160,7 @@ int main(){
     nasgor.harga = 15000;
     cout << nasgor.nama << " " << nasgor.harga << endl;
 
-    nasgorPtr->nama = "Nasi Goreng Mawut";
+    nasgorPtr->nama = "Nasi Goreng Mawutt";
     nasgorPtr->harga = 13000;
 
     cout << nasgor.nama << " " << nasgor.harga << endl;
